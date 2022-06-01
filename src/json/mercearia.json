@@ -1,0 +1,212 @@
+{
+    "-Mtrj45Ve1NTmpao68O1": {
+        "description": "ARROZ SAO JOAO TIPO1 5KG",
+        "grupo": "ARROZ",
+        "name": "ARROZ SAO JOAO TIPO1 5KG",
+        "price": 17.99,
+        "produtoId": 599
+    },
+    "-Mtrj7gX4n8UZFut7ffg": {
+        "description": "ARROZ REI TIPO1 5KG",
+        "grupo": "ARROZ",
+        "name": "ARROZ REI TIPO1 5KG",
+        "price": 18,
+        "produtoId": 600
+    },
+    "-MtrpPSnAfu339lZDCLA": {
+        "description": "MACARRAO INST BACON ADORALLE 80G",
+        "grupo": "MACARRAO PACOTE",
+        "name": "MACARRAO INST BACON ADORALLE 80G",
+        "price": 1.5,
+        "produtoId": 804
+    },
+    "-MtrpTFSBiV6sNaXL5vN": {
+        "description": "ESPAGUETE LIANE COMPRIDO COMUM N 3 1KG UN/0001",
+        "grupo": "MACARRAO PACOTE",
+        "name": "ESPAGUETE LIANE COMPRIDO COMUM N 3 1KG UN/0001",
+        "price": 9,
+        "produtoId": 886
+    },
+    "-Mtsh0cGH9inS1bxnpx7": {
+        "description": "FILTRO PAPEL MELITA 103",
+        "grupo": "FILTRO DE PAPEL",
+        "name": "FILTRO PAPEL MELITA 103",
+        "price": 4.6,
+        "produtoId": 171
+    },
+    "-Mtsh3st-L27nI_w90xh": {
+        "description": "MATTE LEAO 250G",
+        "grupo": "ERVA MATE",
+        "name": "MATTE LEAO 250G",
+        "price": 9.5,
+        "produtoId": 176
+    },
+    "-Mtsh9YWY_ppGzOk5Ylc": {
+        "description": "LEITE DE COCO COCAO 500ML",
+        "grupo": "LEITE DE COCO",
+        "name": "LEITE DE COCO COCAO 500ML",
+        "price": 3.8,
+        "produtoId": 192
+    },
+    "-MtshCAOJEcvpNc-yruM": {
+        "description": "NESCAFE ORIG EXTRA FORTE 50G",
+        "grupo": "CAFE EM PO",
+        "name": "NESCAFE ORIG EXTRA FORTE 50G",
+        "price": 5.35,
+        "produtoId": 198
+    },
+    "-MtshHQMricGPMsoQjgE": {
+        "description": "NESCAU 2.0 NESTLE 200G",
+        "grupo": "ACHOCOLATADO EM PO",
+        "name": "NESCAU 2.0 NESTLE 200G",
+        "price": 4.3,
+        "produtoId": 217
+    },
+    "-MtshL6mxbPlPceYBV8D": {
+        "description": "LEITE CONDENSADO NESTLE 395G",
+        "grupo": "LEITE CONDENSADO",
+        "name": "LEITE CONDENSADO NESTLE 395G",
+        "price": 8.2,
+        "produtoId": 219
+    },
+    "-MtshNvF_vQKgyWhH1n8": {
+        "description": "GOIABADA VAL 300G",
+        "grupo": "GOIABADA TABLETE",
+        "name": "GOIABADA VAL 300G",
+        "price": 2.75,
+        "produtoId": 230
+    },
+    "-MtshRBTvIZ0befVwEas": {
+        "description": "NESCAFE TRADICAO 100G",
+        "grupo": "CAFE EM PO",
+        "name": "NESCAFE TRADICAO 100G",
+        "price": 14,
+        "produtoId": 248
+    },
+    "-MtshVXydnhpHtdY_fuZ": {
+        "description": "ADOCANTE ZERO CAL 100ML",
+        "grupo": "ADOCANTE",
+        "name": "ADOCANTE ZERO CAL 100ML",
+        "price": 4.5,
+        "produtoId": 263
+    },
+    "-MtshYX11vva3-_64Smd": {
+        "description": "CAFE ARAGUAIA 250G",
+        "grupo": "CAFE EM PO",
+        "name": "CAFE ARAGUAIA 250G",
+        "price": 10.5,
+        "produtoId": 266
+    },
+    "-MtshcgowYhtGjLX2r3a": {
+        "description": "EXTRATO TOM QUERO 190G",
+        "grupo": "EXTRATO DE TOMATE",
+        "name": "EXTRATO TOM QUERO 190G",
+        "price": 2.1,
+        "produtoId": 276
+    },
+    "-MtshfHbY_5RakfL6obL": {
+        "description": "AZEITONA LA PREFIRADA 500G",
+        "grupo": "AZEITONA EM CONSERVA",
+        "name": "AZEITONA LA PREFIRADA 500G",
+        "price": 12.8,
+        "produtoId": 279
+    },
+    "-MtshhssDF0OM3lt3Z0A": {
+        "description": "AZEITONA AGROLIVA 200G",
+        "grupo": "AZEITONA EM CONSERVA",
+        "name": "AZEITONA AGROLIVA 200G",
+        "price": 4.95,
+        "produtoId": 287
+    },
+    "-Mtshl57Sr9APRTMJRL-": {
+        "description": "MOLHO TOM TRAD PREDILECTA 340G",
+        "grupo": "MOLHO DE TOMATE",
+        "name": "MOLHO TOM TRAD PREDILECTA 340G",
+        "price": 1.5,
+        "produtoId": 293
+    },
+    "-MtshnxG3Oa8GKwlFIzU": {
+        "description": "POLVILHO DOCE CAIPIRA 1KG",
+        "grupo": "POLVILHO",
+        "name": "POLVILHO DOCE CAIPIRA 1KG",
+        "price": 5.2,
+        "produtoId": 301
+    },
+    "-Mtshr2fRd3xIk3BVr4R": {
+        "description": "LEITE PO PIRACANJUBA 400G",
+        "grupo": "LEITE EM PO",
+        "name": "LEITE PO PIRACANJUBA 400G",
+        "price": 13.5,
+        "produtoId": 305
+    },
+    "-Mtshtq5nbrxxNDQaCVl": {
+        "description": "MAIZENA 200G AMIDO DE MILHO",
+        "grupo": "AMIDO DE MILHO",
+        "name": "MAIZENA 200G AMIDO DE MILHO",
+        "price": 4,
+        "produtoId": 308
+    },
+    "-Mtshx1G0cj0vQFqcmz8": {
+        "description": "COCO RALADO COQUEL 100G",
+        "grupo": "COCO RALADO",
+        "name": "COCO RALADO COQUEL 100G",
+        "price": 2.5,
+        "produtoId": 312
+    },
+    "-MtshztErOCrdIW1gyhq": {
+        "description": "FERMENTO PO ROYAL 100G",
+        "grupo": "FERMENTO EM PO",
+        "name": "FERMENTO PO ROYAL 100G",
+        "price": 3.25,
+        "produtoId": 313
+    },
+    "-Mtsi1w6xnhOK19vPiHB": {
+        "description": "FERM BIOLOGICO SAF-INSTANT 10G",
+        "grupo": "FERMENTO BIOLOGICO S",
+        "name": "FERM BIOLOGICO SAF-INSTANT 10G",
+        "price": 1.5,
+        "produtoId": 314
+    },
+    "-Mtsi4d4qhex_zG6w6EM": {
+        "description": "FARINHA MILHO FLOCAO SINHA 500G",
+        "grupo": "FARINHA DE MILHO",
+        "name": "FARINHA MILHO FLOCAO SINHA 500G",
+        "price": 2.95,
+        "produtoId": 315
+    },
+    "-Mtsi7PTuRHQpcuJ2FUZ": {
+        "description": "FEIJAO CACULINHA 1KG",
+        "grupo": "FEIJAO",
+        "name": "FEIJAO CACULINHA 1KG",
+        "price": 6.1,
+        "produtoId": 594
+    },
+    "-MtsiAzsvV6WWj3u6ggQ": {
+        "description": "SAL REFINADO POP 1KG",
+        "grupo": "SAL DE COZINHA",
+        "name": "SAL REFINADO POP 1KG",
+        "price": 1.7,
+        "produtoId": 595
+    },
+    "-MtsiDYk6qWEEgtR12DC": {
+        "description": "FEIJAO PRETO REI 1KG",
+        "grupo": "FEIJAO",
+        "name": "FEIJAO PRETO REI 1KG",
+        "price": 7.5,
+        "produtoId": 597
+    },
+    "-Mtwmsaxv2Q3QCdVZPtU": {
+        "description": "CATCHUP TRAD CIABON 390G",
+        "grupo": "",
+        "name": "CATCHUP TRAD CIABON 390G",
+        "price": 4.25,
+        "produtoId": 829
+    },
+    "-Mtwmv9b1JmICJtFkORT": {
+        "description": "MAC PAULISTA PADRE NOSSO SEMOLA 500GR UN/0001",
+        "grupo": "",
+        "name": "MAC PAULISTA PADRE NOSSO SEMOLA 500GR UN/0001",
+        "price": 3.1,
+        "produtoId": 867
+    }
+}

@@ -30,5 +30,5 @@ npm install express mongoose nodemon
 Ao realizar requisições, será retornado alguma das respostas a seguir, por padrão é configurado a mesma resposta de not found para todos os controladores, vou explicar abaixo.
 
 ### status, resposta
-404 - Produto não existe, ou não foi possível localiza-lo.
+404 - Produto não existe, ou não foi possível localiza-lo.<br>
 200 - A requisição foi feita.
